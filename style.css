@@ -17,13 +17,13 @@
 .left-section {
     grid-column: span 2;
     height: 100%;
-    background-color: #999999;
+    background-color: #24527a;
 }
 
 .right-section {
     grid-column: span 5;
     height: 100%;
-    background-color: #424a50;
+    background-color: #5dacbd;
     border-radius: 0px 60px 0px 0px;
 }
 
@@ -33,7 +33,7 @@
 
 .profile {
     width: 100%;
-    border-bottom: 2px solid #eeeeee;
+    border-bottom: 2px solid #a7bcb9;
 }
 
 .profile .profile-image {
@@ -119,7 +119,7 @@
 }
 
 .exp-time-period,
-.education-time-period,
+.educationp-time-period,
 .awards-time-period {
     font-size: 18px;
 }
